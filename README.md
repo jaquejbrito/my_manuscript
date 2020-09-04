@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jaquejbrito/my_manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://jaquejbrito.github.io/my_manuscript/>.
-The permalink for this webpage version is <https://jaquejbrito.github.io/my_manuscript/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/>.
+The permalink for this webpage version is <https://jaquejbrito.github.io/my_manuscript/v/5e87fd33b2a5cf06ab5787ef6b4da8f7c2396236/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jaquejbrito.github.io/my_manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc`](https://github.com/jaquejbrito/my_manuscript/commit/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc).
+[`5e87fd33b2a5cf06ab5787ef6b4da8f7c2396236`](https://github.com/jaquejbrito/my_manuscript/commit/5e87fd33b2a5cf06ab5787ef6b4da8f7c2396236).
